@@ -1,0 +1,31 @@
+{
+  "name": "firsttesting",
+  "version": "0.0.1",
+  "description": "a sample testing setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "xxx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EchoTung/firstFEJSTesting.git"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "travis"
+  ],
+  "author": "aaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EchoTung/firstFEJSTesting/issues"
+  },
+  "homepage": "https://github.com/EchoTung/firstFEJSTesting#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
