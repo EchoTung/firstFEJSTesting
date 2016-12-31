@@ -55,7 +55,7 @@ module.exports = function(config) {
 
     // start these browsers
     // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
-    browsers: ['C:\Users\tongmeiyan\AppData\Local\Google\Chrome\Application\chrome.exe'],
+    browsers: ['C:/Users/tongmeiyan/AppData/Local/Google/Chrome/Application/chrome.exe'],
 
 
     // Continuous Integration mode
